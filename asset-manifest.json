@@ -80,6 +80,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-02/assets/characters/CHR_woman_standing_v16_Rig_v2.glb"
     },
     {
+      "path": "/assets/characters/runtime/CHR_Remy_Mixamo_Web_20261021.glb",
+      "bytes": 12837376,
+      "sha256": "8bbc351f7bbeb9086ee0d753406d08dd245c9274508e27ad834b7f79bd340b95",
+      "url": "https://romariovicente.github.io/preparatorio-assets-02/assets/characters/runtime/CHR_Remy_Mixamo_Web_20261021.glb"
+    },
+    {
       "path": "/assets/cyber/ENV_Biome_black-forest_20261005.glb",
       "bytes": 4098892,
       "sha256": "b10099ffe4abc2521cdd97b916d387ba637cc784e5d6f3f8cb199484fc2fc6dc",
