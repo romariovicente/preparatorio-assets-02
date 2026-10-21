@@ -32,6 +32,12 @@
       "url": "https://romariovicente.github.io/preparatorio-assets-02/assets/additions20261020/PROP_Ambient_Monitor_20261020.glb"
     },
     {
+      "path": "/assets/additions20261021/PROP_Hospital_Triage_Terminal_20261021.glb",
+      "bytes": 411912,
+      "sha256": "2f7a33f7aa4b0d50d2443aa4303714e95460c8bc92e110c6d68ce38c84b324f4",
+      "url": "https://romariovicente.github.io/preparatorio-assets-02/assets/additions20261021/PROP_Hospital_Triage_Terminal_20261021.glb"
+    },
+    {
       "path": "/assets/characters/CHR_Remy_Senac_Uniform_20261009.glb",
       "bytes": 35715500,
       "sha256": "05415930df48bd92d45d917dd7831d008b5f64de964dc7d3aa10ad347bc84292",
@@ -366,6 +372,12 @@
       "bytes": 14587,
       "sha256": "ad5e87cb21ede92ea6fe75055251759d2431491cb60a7b0eceac84fa981c2d01",
       "url": "https://romariovicente.github.io/preparatorio-assets-02/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre.jpg"
+    },
+    {
+      "path": "/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre_Civilian_v1.glb",
+      "bytes": 95840736,
+      "sha256": "4aacf549b4e78361ad2a4d61bfd598760ac9db72774c0457b59f8c6bbf27e79c",
+      "url": "https://romariovicente.github.io/preparatorio-assets-02/assets/supplied/SUP_character_cyberpunk_free_3d_by_oscar_cre_Civilian_v1.glb"
     },
     {
       "path": "/assets/supplied/SUP_charite_university_hospital___operating_room.glb",
